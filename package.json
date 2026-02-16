@@ -1,0 +1,13 @@
+{
+  "name": "pdf-to-jpg-bot",
+  "version": "1.0.0",
+  "description": "Telegram PDF to JPG bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.8"
+  }
+}
